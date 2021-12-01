@@ -1,6 +1,3 @@
-<?php 
-?>
-<!-- BOXTOBED --> 
 <html>
     <head>
         <title>BOXTOBED</title>
