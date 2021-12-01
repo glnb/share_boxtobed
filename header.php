@@ -14,10 +14,10 @@
             <div class="nav-collapse collapse">
               <ul class="nav navbar-nav">
                 <?php if (!isset($user)) { ?>
-                  <li><a href="login.php">Login</a></li>
-                  <li><a href="register.php">Register</a></li>
+                  <li><a href="login.php">Connexion</a></li>
+                  <li><a href="register.php">Inscription</a></li>
                 <?php } else { ?>
-                  <li><a href="logout.php">Logout</a></li>
+                  <li><a href="logout.php">Déconnexion</a></li>
                 <?php } ?>
               </ul>
             </div>
